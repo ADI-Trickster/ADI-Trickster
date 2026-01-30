@@ -12,7 +12,8 @@
 
 ![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ADI-Trickster)
+
 
 
 <!--
