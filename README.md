@@ -1,4 +1,27 @@
-<h>👋 Hi, I’m Adrian R. Anaya  @ADI-Trickster
+<h>👋 Hi, I’m Adrian R. Anaya  @ADI-Trickster</h>
+## 👤 Profile:
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ADI-Trickster)
+
+<a href="https://www.linkedin.com/in/adrianranaya">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="120" />
+</a>
+
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrianranaya/)
+[![linkedin](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png)](/)
+
+-->
+
+## ⭐ Favorite Projects:
+- 🚧 wip
+<!--
+- [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YOUR_USERNAME/REPO_NAME)
+-->
+- wip
+- wip2
+
+<h>
+temp
 - 👀 I’m interested in making random sht...
 - 🌱 I’m currently learning nothing but everything...
 - 💞️ I’m looking to collaborate on games, web pages, and chats...
@@ -9,10 +32,9 @@
 </h>
 
 <img src="https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge" />
-
 ![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 
 <!--
