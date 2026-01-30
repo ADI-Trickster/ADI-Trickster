@@ -7,9 +7,18 @@
 - ⚡ Fun fact: finds ways to make code work by thinking diffrently...
 - testing out looks
 </h>
-![<#6B46C1>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+<img src="https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge" />
+
+![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+<!--
+![<#6B46C1>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+-->
 
 <!---
 ADI-Trickster/ADI-Trickster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
