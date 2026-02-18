@@ -1,4 +1,5 @@
-<h>👋 Hi, I’m Adrian R. Anaya  @ADI-Trickster</h>
+# <h>👋 Hi, I’m Adrian R. Anaya  @ADI-Trickster</h>
+At UIC, UnderGrad studying Comp Sci, Basic experience in web development / app making, cybersecurity, and game development
 ## 👤 Profile:
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ADI-Trickster)
 
@@ -20,8 +21,12 @@
 - wip
 - wip2
 
-<h>
-temp
+<!--
+## Currently Working On
+Improving my cybersecurty skills by taking part of CTFs. Learning new langueages: SQL, F#, and GO
+-->
+
+<!-- <h>
 - 👀 I’m interested in making random sht...
 - 🌱 I’m currently learning nothing but everything...
 - 💞️ I’m looking to collaborate on games, web pages, and chats...
@@ -29,12 +34,10 @@ temp
 - 😄 Pronouns: Adrian...
 - ⚡ Fun fact: finds ways to make code work by thinking diffrently...
 - testing out looks
-</h>
+</h> -->
 
-<img src="https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge" />
-![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge)
-
-
+<!-- <img src="https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge" />
+![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge) -->
 
 
 <!--
