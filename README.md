@@ -1,48 +1,72 @@
-<h>👋 Hi, I’m Adrian R. Anaya  @ADI-Trickster</h>
-## 👤 Profile:
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ADI-Trickster)
+<h1 align="center">👋 Hi, I'm Adrian R. Anaya</h1>
+<h3 align="center">@ADI-Trickster · Developer · Problem Solver · Builder of random things</h3>
 
-<a href="https://www.linkedin.com/in/adrianranaya">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="120" />
-</a>
+<p align="center">
+  <!-- <a href="https://github.com/ADI-Trickster">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+  </a> -->
+  <a href="https://www.linkedin.com/in/adrianranaya">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
+---
+
+## 👤 About Me
+
+- 🔭 I'm interested in building **random, fun, and useful things**
+- 🌱 Currently learning *nothing but everything* — always exploring
+- 💞️ Open to collaborating on **Games, Web apps, and Cyber Challenges**
+- ⚡ Fun fact: I find ways to make code work by thinking **differently**
+
+---
+
+## ⭐ Favorite Projects
+
+> 🚧 Work in progress — check back soon!
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🚧 WIP | Coming soon... | — |
+| 🚧 WIP | Coming soon... | — |
+
+---
+
+## 🛠️ Tech & Tools
+
+<!-- Add/remove badges for the languages and tools you use -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)!-->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 <!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrianranaya/)
-[![linkedin](https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png)](/)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+!-->
 
--->
-
-## ⭐ Favorite Projects:
-- 🚧 wip
+<!-- Game Dev / Engines --
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) !-->
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+---
 <!--
-- [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/YOUR_USERNAME/REPO_NAME)
--->
-- wip
-- wip2
 
-<h>
-temp
-- 👀 I’m interested in making random sht...
-- 🌱 I’m currently learning nothing but everything...
-- 💞️ I’m looking to collaborate on games, web pages, and chats...
-- 📫 How to reach me www.linkedin.com/in/adrianranaya/
-- 😄 Pronouns: Adrian...
-- ⚡ Fun fact: finds ways to make code work by thinking diffrently...
-- testing out looks
-</h>
+## 📊 Git/Hub Stats
+-!>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADI-Trickster&show_icons=true&theme=tokyonight&hide_border=true" alt="Adrian's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-Trickster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p> -->
 
-<img src="https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge" />
-![Badge Text](https://img.shields.io/badge/Badge-Text-6B46C1?style=for-the-badge)
+---
 
-
-
-
-<!--
-![<#6B46C1>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
--->
-
-<!---
-ADI-Trickster/ADI-Trickster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- <p align="center">
+  <i>💬 "Think differently. Code differently. Build anything."</i>
+</p> -->
