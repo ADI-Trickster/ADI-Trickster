@@ -27,7 +27,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🚧 WIP | Coming soon... | — |
+| p5play-project | Santa was out on his Christmas Eve ride when disaster struck — his sleigh crashed, and the presents went flying everywhere! Now they're scattered across 4 levels, and Christmas morning is fast approaching. Team up with a friend: one of you plays as the elf, the other as the reindeer. Work together, make your way through each level, and collect every present before the sun comes up! | https://p5play.netlify.app/ |
 | 🚧 WIP | Coming soon... | — |
 
 ---
